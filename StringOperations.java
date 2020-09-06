@@ -1,5 +1,8 @@
 public class StringOperations {
 public static void main(String args[]){
+  
+ /*PLUSKA FEEDBACK*/
+  /*How could you generalize this for any word?*/
   /*chalenge 2
 Gideon Coprivnicar
 AP Computer Science
